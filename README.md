@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rasyidpit
 - 👀 I’m interested in Woman
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://togar.me (MT)
 
