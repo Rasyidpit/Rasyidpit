@@ -2,69 +2,47 @@
 
 Selamat datang di markas digital saya! Saya seorang *full-stack developer* yang bersemangat dalam membangun aplikasi web dan mobile yang inovatif dan efisien. Saya selalu mencari tantangan baru dan suka belajar teknologi terkini.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Web+dan+Mobile+Enthusiast;Selalu+Belajar+Hal+Baru&font=Fira%20Code&fontSize=25)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Web+dan+Mobile+Enthusiast;Selalu+Belajar+Hal+Baru&font=Fira%20Code&fontSize=25&center=true&width=500&duration=2000)](https://git.io/typing-svg)
 
 ---
 
-### 🔥 Teknologi Favorit Saya:
+### 🚀 Keahlian Teknis Saya:
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#github-stats">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-        <br>HTML
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#github-stats">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-        <br>CSS
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#github-stats">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-        <br>Tailwind
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#github-stats">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React.js" />
-        <br>React.js
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#github-stats">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-        <br>Node.js
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#github-stats">
-        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-        <br>Flutter
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,flutter&perline=6&theme=dark" alt="HTML, CSS, Tailwind, React, Node.js, Flutter" />
+  </a>
+</p>
 
 ---
 
 ### 📊 Statistik GitHub Saya:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rasyidpit&show_icons=true&theme=radical&hide_border=true" alt="Rasyidpit GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rasyidpit&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rasyidpit GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rasyidpit&theme=radical&hide_border=true" alt="Rasyidpit GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasyidpit&theme=radical&hide_border=true" alt="Rasyidpit Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasyidpit&layout=compact&theme=radical&hide_border=true" alt="Rasyidpit Top Langs" />
 </p>
 
 ---
 
-### Proyek Unggulan:
+### ✨ Temukan Karya Saya!
 
-(Tambahkan daftar proyek kamu di sini dengan format yang menarik)
+<p align="center">
+  <a href="https://github.com/Rasyidpit?tab=repositories" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Lihat%20Semua%20Project-FF5733?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Rasyidpit?tab=repositories" alt="Lihat Semua Project" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rasyidpit/nama-repo-project-1" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Project%20Keren%201-1E90FF?style=for-the-badge&logo=react&logoColor=white&link=https://github.com/Rasyidpit/nama-repo-project-1" alt="Project Keren 1" />
+  </a>
+  &nbsp; &nbsp; <a href="https://github.com/Rasyidpit/nama-repo-project-2" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Project%20Hebat%202-00BFFF?style=for-the-badge&logo=flutter&logoColor=white&link=https://github.com/Rasyidpit/nama-repo-project-2" alt="Project Hebat 2" />
+  </a>
+</p>
 
 ---
 
