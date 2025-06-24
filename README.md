@@ -1,6 +1,8 @@
-# Hai, Saya Rasyid! 👋
+# Halo, Saya Rasyid! 👋
 
 Selamat datang di markas digital saya! Saya seorang *full-stack developer* yang bersemangat dalam membangun aplikasi web dan mobile yang inovatif dan efisien. Saya selalu mencari tantangan baru dan suka belajar teknologi terkini.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Web+dan+Mobile+Enthusiast;Selalu+Belajar+Hal+Baru&font=Fira%20Code&fontSize=25)](https://git.io/typing-svg)
 
 ---
 
@@ -54,7 +56,15 @@ Selamat datang di markas digital saya! Saya seorang *full-stack developer* yang 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rasyidpit&show_icons=true&theme=radical&hide_border=true" alt="Rasyidpit GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rasyidpit&theme=radical&hide_border=true" alt="Rasyidpit GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasyidpit&theme=radical&hide_border=true" alt="Rasyidpit Top Langs" />
 </p>
+
+---
+
+### Proyek Unggulan:
+
+(Tambahkan daftar proyek kamu di sini dengan format yang menarik)
 
 ---
 
@@ -75,4 +85,8 @@ Saat ini saya sedang mendalami **TypeScript** dan **Next.js** untuk meningkatkan
   <img src="https://media.giphy.com/media/RbDKzvYryuKBq/giphy.gif" width="50" alt="Coding GIF" />
   <br>
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rasyidpit&style=flat-square&color=blue" alt="Profile views" />
 </p>
