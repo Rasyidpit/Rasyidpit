@@ -1,68 +1,82 @@
-# Halo, Saya Rasyid! 👋
+<p align="center">
+  <a href="https://github.com/Rasyidpit">
+    <img src="https://github.com/Rasyidpit/Rasyidpit/assets/123456789/your-custom-banner-image-url.png" alt="Rasyidpit's GitHub Profile Banner" width="100%" />
+  </a>
+</p>
 
-Selamat datang di markas digital saya! Saya seorang *full-stack developer* yang bersemangat dalam membangun aplikasi web dan mobile yang inovatif dan efisien. Saya selalu mencari tantangan baru dan suka belajar teknologi terkini.
+# Hi There, I'm Rasyid! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Web+dan+Mobile+Enthusiast;Selalu+Belajar+Hal+Baru&font=Fira%20Code&fontSize=25&center=true&width=500&duration=2000)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKzvYryuKBq/giphy.gif" width="60" alt="Coding GIF" />
+</p>
+
+I'm a passionate **Full-Stack Developer** dedicated to building innovative and efficient web and mobile applications. I thrive on new challenges and continuously explore the latest technologies to bring ideas to life.
 
 ---
 
-### 🚀 Keahlian Teknis Saya:
+## 💻 My Core Stack:
 
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,flutter&perline=6&theme=dark" alt="HTML, CSS, Tailwind, React, Node.js, Flutter" />
+  <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,flutter,ts,nextjs,mongodb,mysql,git,docker,aws&perline=6&theme=dark" alt="HTML, CSS, Tailwind, React, Node.js, Flutter, TypeScript, Next.js, MongoDB, MySQL, Git, Docker, AWS" />
   </a>
 </p>
 
 ---
 
-### 📊 Statistik GitHub Saya:
+## 🚀 GitHub Insights:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rasyidpit&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rasyidpit GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rasyidpit&theme=radical&hide_border=true" alt="Rasyidpit GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasyidpit&layout=compact&theme=radical&hide_border=true" alt="Rasyidpit Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rasyidpit&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=FF5733&icon_color=00BFFF&text_color=999999" alt="Rasyidpit GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rasyidpit&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currstreak_color=00BFFF&ring_color=FF5733" alt="Rasyidpit GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasyidpit&layout=compact&theme=radical&hide_border=true&title_color=FF5733&text_color=999999" alt="Rasyidpit Top Languages" />
 </p>
 
 ---
 
-### ✨ Temukan Karya Saya!
+## 🌟 Featured Projects:
+
+Ready to dive into my work? Click below to explore some of my creations!
 
 <p align="center">
   <a href="https://github.com/Rasyidpit?tab=repositories" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Lihat%20Semua%20Project-FF5733?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Rasyidpit?tab=repositories" alt="Lihat Semua Project" />
+    <img src="https://img.shields.io/badge/Explore%20All%20Projects-FF5733?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Projects" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Rasyidpit/nama-repo-project-1" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Project%20Keren%201-1E90FF?style=for-the-badge&logo=react&logoColor=white&link=https://github.com/Rasyidpit/nama-repo-project-1" alt="Project Keren 1" />
+  <a href="https://github.com/Rasyidpit/your-project-repo-1" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Project%20Alpha-1E90FF?style=for-the-badge&logo=react&logoColor=white" alt="Project Alpha" />
   </a>
-  &nbsp; &nbsp; <a href="https://github.com/Rasyidpit/nama-repo-project-2" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Project%20Hebat%202-00BFFF?style=for-the-badge&logo=flutter&logoColor=white&link=https://github.com/Rasyidpit/nama-repo-project-2" alt="Project Hebat 2" />
+  &nbsp; &nbsp;
+  <a href="https://github.com/Rasyidpit/your-project-repo-2" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Project%20Beta-00BFFF?style=for-the-badge&logo=flutter&logoColor=white" alt="Project Beta" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://github.com/Rasyidpit/your-project-repo-3" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Project%20Gamma-8A2BE2?style=for-the-badge&logo=nodejs&logoColor=white" alt="Project Gamma" />
   </a>
 </p>
 
 ---
 
-### 📫 Yuk Terhubung!
+## 🌱 Currently Learning:
+
+I'm always expanding my horizons! Currently, I'm deep-diving into **GraphQL** and **Kubernetes** to further enhance my backend and deployment capabilities. Feel free to share any resources or insights!
+
+---
+
+## 👋 Let's Connect!
 
 * **Instagram:** [@rasyidpit](https://www.instagram.com/rasyidpit/)
 * **Email:** [to@gawr.site](mailto:to@gawr.site)
-
----
-
-### 🌱 Saya Sedang Belajar:
-
-Saat ini saya sedang mendalami **TypeScript** dan **Next.js** untuk meningkatkan kemampuan *front-end* saya. Jangan ragu untuk berbagi sumber atau ide jika kamu punya!
+* **LinkedIn:** [Your LinkedIn Profile Link] (If you have one, highly recommended!)
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKzvYryuKBq/giphy.gif" width="50" alt="Coding GIF" />
-  <br>
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <i>"The only way to do great work is to love what you do."</i> - Steve Jobs
 </p>
 
 <p align="center">
