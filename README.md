@@ -6,11 +6,10 @@
 # Hey there, I'm Rasyid! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKzvYryuKBq/giphy.gif" width="60" alt="Coding GIF" />
-</p>
+  <img src="https://media.giphy.com/media/RbDKzvYryuKBq/giphy.gif" width="60" alt="Coding GIF" /> 
+  </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Crafting+Web+%26+Mobile+Experiences;Always+Learning+New+Tech&font=Fira%20Code&fontSize=25&center=true&width=500&duration=2000&color=FF5733)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Crafting+Web+%26+Mobile+Experiences;Always+Learning+New+Tech&font=Fira%20Code&fontSize=25&center=true&width=750&duration=2000&color=FF5733)](https://git.io/typing-svg)
 I'm a passionate **Full-Stack Developer** dedicated to building innovative and efficient web and mobile applications. My journey is all about turning complex ideas into seamless digital experiences, embracing new challenges and continuously exploring the cutting edge of technology.
 
 ---
@@ -75,15 +74,15 @@ Ready to dive into my work? Click below to explore some of my creations, showcas
 </p>
 
 <p align="center">
-  <a href="https://github.com/Rasyidpit/your-awesome-web-app-repo" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/Rasyidpit/nama-repo-web-app" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Web%20App%20Showcase-1E90FF?style=for-the-badge&logo=react&logoColor=white" alt="Web App Showcase" />
   </a>
   &nbsp; &nbsp;
-  <a href="https://github.com/Rasyidpit/your-cool-mobile-app-repo" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/Rasyidpit/nama-repo-mobile-app" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Mobile%20App%20MVP-00BFFF?style=for-the-badge&logo=flutter&logoColor=white" alt="Mobile App MVP" />
   </a>
   &nbsp; &nbsp;
-  <a href="https://github.com/Rasyidpit/your-backend-api-service-repo" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/Rasyidpit/nama-repo-api-service" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/API%20Service%20Project-8A2BE2?style=for-the-badge&logo=nodejs&logoColor=white" alt="API Service Project" />
   </a>
 </p>
